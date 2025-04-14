@@ -45,6 +45,6 @@ Este repositório contém o backend do BarberX, responsável por gerenciar os da
 
 > Requisitos: Node.js, MongoDB e variáveis de ambiente `.env` com a URI do banco e chave JWT.
 
-### Screenshot fluxograma:
+## 🖼️ Screenshot fluxograma:
 
 ![screenshot](/src/assets/fluxogramaBackend.png)
