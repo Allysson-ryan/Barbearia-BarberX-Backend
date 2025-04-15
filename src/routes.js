@@ -31,7 +31,7 @@ router.get(
 );
 
 //rota de teste
-app.get("/ping", (req, res) => {
+router.get("/ping", (req, res) => {
   res.send("✅ API da BarberX está rodando!");
 });
 
