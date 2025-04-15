@@ -30,4 +30,9 @@ router.get(
   adminController.listarAgendamentosAtendidos
 );
 
+//rota de teste
+app.get("/ping", (req, res) => {
+  res.send("✅ API da BarberX está rodando!");
+});
+
 module.exports = router;
