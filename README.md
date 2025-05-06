@@ -1,6 +1,6 @@
 # BarberX - Backend (API RESTful) 🛠️
 
-Este repositório contém o backend do BarberX, responsável por gerenciar os dados, autenticação de administradores e lógica de agendamentos da aplicação.
+Este repositório contém o backend do BarberX, uma aplicação moderna voltada para barbearias que desejam digitalizar o processo de agendamento de serviços. O backend é responsável por gerenciar os dados dos agendamentos, controlar o acesso administrativo e aplicar as regras de negócio da aplicação. Foi desenvolvido utilizando Node.js, Express e MongoDB, seguindo a arquitetura MVC com separação clara de responsabilidades.
 
 ## ✨ Funcionalidades da API
 
